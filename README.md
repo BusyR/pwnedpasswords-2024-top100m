@@ -15,7 +15,8 @@ frequency:ntlm-hash:plain
 ```
 
 ## Revision history:
-1.0  2024-12-14 - initial release
+1.0.1  2025-02-16 - initial release
+1.0.0  2024-12-14 - initial release
 
 ### Current status as of Sun Feb 16 10:24:47 PM CET 2025
 |Top #|Left|Left%|Cracked|Cracked%|
